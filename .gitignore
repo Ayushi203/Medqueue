@@ -1,0 +1,12 @@
+# Build output and dependencies
+node_modules/
+dist/
+target/
+
+# Local secrets
+local-secrets.properties
+
+# Database dumps and report scratch files
+backups/
+_report_build/
+~$*
