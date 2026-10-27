@@ -45,6 +45,7 @@ public class SecurityConfig {
                 List.of(
                         "http://localhost:*",
                         "http://127.0.0.1:*"
+                        "https://medqueue-three.vercel.app"
                 )
         );
 
